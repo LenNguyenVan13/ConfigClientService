@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/LenNguyenVan13/cloud-config-file.git
+          uri: https://github.com/microserviceforsubmit/cloud-config-file.git
           default-label: main
         bootstrap: false
 
